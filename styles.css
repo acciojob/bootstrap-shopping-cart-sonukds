@@ -15,7 +15,7 @@
             color: white;
             border-radius: 20px;
         }
-.col-lg-8{
+.row.mb-4{
 	display: flex;
 	justify-content: center;
 }
