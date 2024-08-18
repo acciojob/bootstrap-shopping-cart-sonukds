@@ -2,6 +2,7 @@
  .block-heading {
             color: #3b99e0;
             text-align: center;
+			 align-items: center;
             margin: 20px 0;
         }
         .summary {
@@ -15,3 +16,7 @@
             color: white;
             border-radius: 20px;
         }
+.col-lg-8{
+	display: flex;
+	justify-content: center;
+}
